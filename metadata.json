@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Chronos Time Machine",
+  "description": "A real-time video buffer application that allows you to rewind live reality and analyze past moments using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
